@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "TMDB_Movies"
-include ':app'
+include (":app")
